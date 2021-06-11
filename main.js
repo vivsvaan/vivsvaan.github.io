@@ -1266,7 +1266,7 @@ const TECH_STACK = {
     be_dev: {
         languages: ['Python', 'Go', 'JavaScript', 'TypeScript'],
         frameworks: ['Django', 'Nodejs', 'GoFibre'],
-        databases: ['PostreSQL', 'MySQL', 'MongoDB'],
+        databases: ['PostgreSQL', 'MySQL', 'MongoDB'],
         other_tools: ['Git', 'Docker', 'Linux/Bash'],
     },
     designing_editing: {
